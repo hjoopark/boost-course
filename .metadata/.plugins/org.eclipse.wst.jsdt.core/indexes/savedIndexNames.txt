@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\hjoo_\Documents\BoostCourse\boost-course\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2357782171.index
