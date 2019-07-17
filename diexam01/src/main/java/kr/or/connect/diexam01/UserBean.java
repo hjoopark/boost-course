@@ -1,5 +1,5 @@
 package kr.or.connect.diexam01;
-
+//vo
 public class UserBean {
 	private String name;
 	private int age;
